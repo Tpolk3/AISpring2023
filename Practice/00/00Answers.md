@@ -1,24 +1,24 @@
-1.
+### Question 1
 1% * 1000000 = 10000
 
 1/10000 = .0001 = .01%
 
 
-2.
-any outcomes = 1/10 * 1/9 * 1/8 = 1/720
-10 outcome = 1/10 + 1/9 + 1/8 = 121/360
-odd outcome = 5/10 * 4/9 * 3/8 = 1/12
+### Question 2
+* any outcomes = 1/10 * 1/9 * 1/8 = 1/720
+* 10 outcome = 1/10 + 1/9 + 1/8 = 121/360
+* odd outcome = 5/10 * 4/9 * 3/8 = 1/12
 
-10 or odd outcome = 121/360 + 1/12 = 151/360
-
-
-3.
-one roll = (1 + 2 + 3 + 4 + 5 + 6)/6 = 21/6 = 7/2 = 3.5 = (6+1)/2
-two rolls = (12+2)/2 = 7
-100 rolls = (600+100)/2 = 350
+* 10 or odd outcome = 121/360 + 1/12 = 151/360
 
 
-4.
+### Question 3
+* one roll = (1 + 2 + 3 + 4 + 5 + 6)/6 = 21/6 = 7/2 = 3.5 = (6+1)/2
+* two rolls = (12+2)/2 = 7
+* 100 rolls = (600+100)/2 = 350
+
+
+### Question 4
 1. $P(x,y) = P(x)P(y)$ is true on if X and Y are independent
 2. $P(x,y) = P(x|y)P(y)$ is true
 3. $P(x,y) = P(x|y)P(y|x)$ is false
@@ -26,14 +26,14 @@ two rolls = (12+2)/2 = 7
 5. $P(x) = \sum_y P(x,y)$ is true
 
 
-5.
+### Question 5
 $x = \frac{1}{2}y + \frac{1}{2}(x+1)$ and $y = \frac{1}{3}y + \frac{1}{3}(x+2)$
 
 x=4
 y=3
 
 
-6.
+### Question 6
 1. $2^{xy} = 2^x2^y$ is false
 2. $2^{x+y} = 2^x2^y$ is true
 3. $2^{x+y} = 2^x+2^y$ is false
@@ -42,12 +42,12 @@ y=3
 6. $\log{3^x} = 3x$ is false
 
 
-7.
+### Question 7
 An operation in a linked list is O(n)
 An operation in a hashtable is O(1)
 
 
-8.
+### Question 8
 let an odd integer = 2k-1 where k is an integer
 let F(n) = 1+3+...+(2n+1) where n is an integer
 
