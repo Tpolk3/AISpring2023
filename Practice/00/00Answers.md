@@ -43,8 +43,8 @@ y=3
 
 
 ### Question 7
-An operation in a linked list is O(n)
-An operation in a hashtable is O(1)
+* An operation in a linked list is O(n)
+* An operation in a hashtable is O(1)
 
 
 ### Question 8
