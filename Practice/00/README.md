@@ -15,7 +15,7 @@ Submit a pdf file with answers to the following questions:
 
 ### Question 1 - Probabilistic Inference
 
-Your box of cereal may be a contest winner! It's rattling, which 100% of winningboxes do. Of course 1% of all boxes rattle and only one box in a million is a winner. What is the probabilitythat your box is a winner?
+Your box of cereal may be a contest winner! It's rattling, which 100% of winningboxes do. Of course 1% of all boxes rattle and only one box in a million is a winner. What is the probability that your box is a winner?
 
 ### Question 2 - Events
 
