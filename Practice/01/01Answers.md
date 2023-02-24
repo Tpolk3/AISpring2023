@@ -1,57 +1,57 @@
 ### Question 1
-# i
+#### i
 7 speeds * 4 directions * list($mn$) * 2^$mn$
 28$mn$ * 2^$mn$
-# ii
+#### ii
 3 positions * 3 steering = 9
 
-# iii
+#### iii
 * Depth First Graph Search
        
 * Breadth First Tree Search
        
 * Breadth First Graph Search
 
-# iv
+#### iv
 yes since each move is uniform
 
 
 ### Question 2
-# i
+#### i
 None of the above: (28$mn$)^$p$2$mn$
 
-# ii
+#### ii
 $b_p = (b_1)^p$
 
 
 ### Question 3
-# 1i
+#### 1i
 True
 
-# 1ii
+#### 1ii
 True
 
-# 1iii
+#### 1iii
 True
 
-# 1iv
+#### 1iv
 Yes
 
-# 2i
+#### 2i
 * The current location of Scorpblorg
 * An array of numbers indicating how many times each snail has been visited so far
 
-# 2ii
+#### 2ii
 True
 
-# 2iii
+#### 2iii
 True
 
-# 2iv
+#### 2iv
 Yes
 
-# 3i
+#### 3i
 Yes
 
-# 3ii
+#### 3ii
 No
